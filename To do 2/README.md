@@ -1,6 +1,7 @@
 # **Task to do:**
-- Creat a file and read all the Urdu text Language from it. (using UTF-8 encoding because of Urdu). 
-- Count the number of each word appearing in file and present it in the formate given below:
+- Create a directory and put some urdu text files with encoding UTF-8 saved in *.txt formate.
+- Read each file one by one (using UTF-8 encoding because of Urdu) and Separate out their Types and Frequencies.
+- Create a separate file for output, write the word against it's number of occurences in all the files in the formate given below:
 
 **تعداد&emsp;&emsp;الفاظ**
 
@@ -16,4 +17,5 @@
 .
 
 - charachters ؟ and ۔ will be considered separate tokens.
+- Also tell total number of Types and Tokens in all files.
 ---
