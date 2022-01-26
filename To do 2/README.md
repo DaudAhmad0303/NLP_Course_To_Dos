@@ -16,6 +16,6 @@
 .
 .
 
-- charachters ؟ and ۔ will be considered separate tokens.
+- Characters ؟ and ۔ will be considered separate tokens.
 - Also tell total number of Types and Tokens in all files.
 ---
