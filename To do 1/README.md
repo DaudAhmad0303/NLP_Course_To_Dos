@@ -15,5 +15,5 @@
 .
 .
 
-- charachters ؟ and ۔ will be considered separate tokens.
+- Characters ؟ and ۔ will be considered separate tokens.
 ---
