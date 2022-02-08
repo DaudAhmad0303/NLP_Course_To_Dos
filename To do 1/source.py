@@ -1,6 +1,6 @@
 import  codecs
 tokens = dict()
-f = codecs.open('text.txt','r','UTF-8')
+f = codecs.open(r'D:\\Daud Ahmad\\6th Semester\\NLP\\To Do\\To do 1\\text.txt','r','UTF-8')
 # print(f.read())         # reading all file content
 for x in f:
     lst = x.split(' ')
