@@ -8,7 +8,7 @@ def print_2d(record):
     '''
     for i in record:
         for j in i:
-            print(f' {j}', end=' ')
+            print(f'{j:<2}', end=' ')
         print()
 
 word1 = input('Enter Actual word: ')
