@@ -17,11 +17,12 @@ Enter word to transform: SAUD
 ```
 **Sample output:** 
 ```
-D  4  5  4  3  2
+D  4  5  4  3  2 
 U  3  4  3  2  3
+A  2  3  2  3  4
 D  1  2  3  4  3
 #  0  1  2  3  4
-   #  S  A  U  D 
+   #  S  A  U  D
 ```
 *Here 2 in the top right corner of the matrix is the minimum edit distance.*
 
